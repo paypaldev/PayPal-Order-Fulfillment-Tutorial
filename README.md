@@ -18,7 +18,7 @@
   <hr />
 </div>
 
-# PayPal Order Fulfillment Sample
+# PayPal Order Fulfillment Tutorial
 
 This repo contains example code for a standard PayPal integration using both the JS SDK and node.js that demonstrates how to fulfill successful orders for an e-book using SendGrid and the PayPal REST API.
 
